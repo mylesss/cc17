@@ -1,0 +1,5 @@
+1.	Computer > Policies > Windows Components > Windows Remote Management (WinRM) > WinRM Service		IPv4 only IP domain controller
+	Computer > Policies > Windows Settings > System Services > WinRM									Auto Start Service
+	
+2. Windows Firewall rule																				Windows Remote Management
+

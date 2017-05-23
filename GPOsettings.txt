@@ -1,0 +1,5 @@
+Network security: Restrict NTLM:  NTLM authentication in this domain									Deny All
+Network security: LAN Manager authentication level														Send NTLMv2 responses only. Refuse LM & NTLM
+
+Computer Policies\Administrative Templates\System\Group Policy:	Configure registry policy processing	
+
